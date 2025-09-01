@@ -1,0 +1,10 @@
+{
+  "python_basics": 0.578,
+  "data_structs": 0.566,
+  "numpy": 0.176,
+  "pandas": 0.566,
+  "ml_basics": 0.6,
+  "classification": 0.89,
+  "regression": 0.6,
+  "model_eval": 0.258
+}

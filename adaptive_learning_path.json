@@ -1,0 +1,174 @@
+[
+  {
+    "step": 1,
+    "item_id": "c1",
+    "title": "Intro to Python syntax",
+    "skills": [
+      "python_basics"
+    ],
+    "type": "reading",
+    "difficulty": 1,
+    "result": "correct",
+    "mastery_snapshot": {
+      "python_basics": 0.6
+    }
+  },
+  {
+    "step": 2,
+    "item_id": "c2",
+    "title": "Python exercises: variables & loops",
+    "skills": [
+      "python_basics"
+    ],
+    "type": "practice",
+    "difficulty": 2,
+    "result": "correct",
+    "mastery_snapshot": {
+      "python_basics": 0.89
+    }
+  },
+  {
+    "step": 3,
+    "item_id": "c4",
+    "title": "Build a CLI todo app",
+    "skills": [
+      "python_basics",
+      "data_structs"
+    ],
+    "type": "project",
+    "difficulty": 3,
+    "result": "incorrect",
+    "mastery_snapshot": {
+      "python_basics": 0.578,
+      "data_structs": 0.176
+    }
+  },
+  {
+    "step": 4,
+    "item_id": "c3",
+    "title": "Lists, dicts, sets deep dive",
+    "skills": [
+      "data_structs"
+    ],
+    "type": "reading",
+    "difficulty": 2,
+    "result": "correct",
+    "mastery_snapshot": {
+      "data_structs": 0.566
+    }
+  },
+  {
+    "step": 5,
+    "item_id": "c5",
+    "title": "NumPy arrays & broadcasting",
+    "skills": [
+      "numpy"
+    ],
+    "type": "reading",
+    "difficulty": 2,
+    "result": "incorrect",
+    "mastery_snapshot": {
+      "numpy": 0.176
+    }
+  },
+  {
+    "step": 6,
+    "item_id": "c10",
+    "title": "Logistic Regression & metrics",
+    "skills": [
+      "classification",
+      "model_eval"
+    ],
+    "type": "reading",
+    "difficulty": 4,
+    "result": "correct",
+    "mastery_snapshot": {
+      "classification": 0.6,
+      "model_eval": 0.568
+    }
+  },
+  {
+    "step": 7,
+    "item_id": "c8",
+    "title": "Intro to ML: train/test, features, targets",
+    "skills": [
+      "ml_basics"
+    ],
+    "type": "reading",
+    "difficulty": 3,
+    "result": "correct",
+    "mastery_snapshot": {
+      "ml_basics": 0.6
+    }
+  },
+  {
+    "step": 8,
+    "item_id": "c9",
+    "title": "Linear Regression in scikit-learn",
+    "skills": [
+      "regression"
+    ],
+    "type": "practice",
+    "difficulty": 3,
+    "result": "correct",
+    "mastery_snapshot": {
+      "regression": 0.6
+    }
+  },
+  {
+    "step": 9,
+    "item_id": "c11",
+    "title": "KNN classifier hands-on",
+    "skills": [
+      "classification"
+    ],
+    "type": "practice",
+    "difficulty": 3,
+    "result": "correct",
+    "mastery_snapshot": {
+      "classification": 0.89
+    }
+  },
+  {
+    "step": 10,
+    "item_id": "c12",
+    "title": "Model evaluation: precision/recall/ROC",
+    "skills": [
+      "model_eval"
+    ],
+    "type": "reading",
+    "difficulty": 4,
+    "result": "incorrect",
+    "mastery_snapshot": {
+      "model_eval": 0.258
+    }
+  },
+  {
+    "step": 11,
+    "item_id": "c6",
+    "title": "Pandas Series & DataFrames",
+    "skills": [
+      "pandas"
+    ],
+    "type": "reading",
+    "difficulty": 3,
+    "result": "incorrect",
+    "mastery_snapshot": {
+      "pandas": 0.176
+    }
+  },
+  {
+    "step": 12,
+    "item_id": "c7",
+    "title": "Clean a CSV dataset",
+    "skills": [
+      "pandas"
+    ],
+    "type": "practice",
+    "difficulty": 3,
+    "result": "correct",
+    "mastery_snapshot": {
+      "pandas": 0.566
+    }
+  }
+]
